@@ -1,22 +1,21 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState, useEffect } from 'react'
+import { Routes, Route, BrowserRouter } from 'react-router-dom'
+import 'react'
 
 import Bulletin from './Bulletin.jsx'
+import Home from './pages/Home.jsx'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <BrowserRouter>
-      <AuthProvider>
         <Routes>
+          <Route path="/" element={<Home/>}/>
           <Route path="/bulletin" element={<Bulletin/>}/>
         </Routes>
-      </AuthProvider>
     </BrowserRouter>
   )
 }
 
-export default App
+export default App;
