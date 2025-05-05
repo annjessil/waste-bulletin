@@ -9,6 +9,7 @@ function Home(){
         <div>
             <h1>Welcome to UCLA Waste Bulletin</h1>
             <button onClick={ () => navigate('/bulletin')}>Click Here for waste bulletin</button>
+      
         </div>
     )
 }
