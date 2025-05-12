@@ -1,13 +1,17 @@
 .results-list {
-    width: 100%;
-    background-color: white;
-    display: flex;
-    flex-direction: column;
-    box-shadow: 0px 0px 8px #ddd;
-    border-radius: 10px;
-    margin-top: 1rem;
-    max-height: 300px;
-    overflow-y: auto;
-    color: black;
-    
-  }
+  position: absolute; /* Make sure it appears BELOW the search bar, not shifting layout */
+  top: 150px; /* Drop it right below the input-wrapper */
+  left: 0;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0px 0px 8px #ddd;
+  border-radius: 10px;
+  margin-top: 0.5rem;
+  /*max-height: fill; */
+  overflow-y: auto;
+  color: black;
+  z-index: 998;
+  box-sizing: border-box;
+}

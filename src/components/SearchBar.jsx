@@ -75,10 +75,13 @@ export const SearchBar = ({ setResults }) => {
     }
 
     const results = allData.filter((item) => {
+      console.log("Item keys:", item);
+      
+
       if (status === "Location") {
         return item.location && item.location.toLowerCase().includes(value.toLowerCase());
       } else if (status === "Object") {
-        return item.name && item.name.toLowerCase().includes(value.toLowerCase());
+        return item.object && item.object.toLowerCase().includes(value.toLowerCase());
       }
       return false;
     });
@@ -92,14 +95,14 @@ export const SearchBar = ({ setResults }) => {
   };
 
   return (
-    <div className="input-wrapper">
-      <FaSearch id="search-icon" />
-      <ColumnDropdown />
-      <input
-        placeholder="Type to search..."
-        value={input}
-        onChange={(e) => handleChange(e.target.value)}
-      />
-    </div>
+      <div className="input-wrapper">
+        <FaSearch id="search-icon" />
+        <ColumnDropdown />
+        <input
+          placeholder="Type to search..."
+          value={input}
+          onChange={(e) => handleChange(e.target.value)}
+        />
+      </div>
   );
 };

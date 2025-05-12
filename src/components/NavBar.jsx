@@ -5,7 +5,6 @@ import {Link} from 'react-router-dom';
 import './NavBar.css';
 import { FaBars, FaTimes } from 'react-icons/fa';
 
-import {Button} from './Button';
 
 
 const NavBar = () => {
@@ -15,15 +14,6 @@ const NavBar = () => {
     const handleClick = () => setClick(!click);
     const closeMobileMenu = () => setClick(false);
 
-    const showButton = () => {
-        if(window.innerWidth <= 960){
-            setButton(false);
-        } else {
-            setButton(true);
-        }
-    };
-
-    window.addEventListener('resize', showButton);
 
     return(
         <>
@@ -32,27 +22,21 @@ const NavBar = () => {
                     <Link to="/" className="navbar-logo">
                         IUSSC
                     </Link>
-                    <div className='menu-icon' onClick={handleClick}>
-                        <i>{click ? <FaTimes /> : <FaBars />}</i>
+                    <div className='nav-links'>
+                        <Link to='/' className='nav-links'>
+                            Home
+                        </Link>
                     </div>
-                    <ul className={click ? 'nav-menu active' : 'nav-menu'}>
-                        <li className='nav-item'>
-                            <Link to='/' className='nav-links' onClick={closeMobileMenu}>
-                                Home
-                            </Link>
-                        </li>
-                        <li className='nav-items'>
-                            <Link to='/bulletin' className='nav-links' onClick={closeMobileMenu}>
-                                Bulletin
-                            </Link>
-                        </li>
-                        <li className='nav-item'>
-                            <Link to='/search' className='nav-links' onClick={closeMobileMenu}>
-                                Search
-                            </Link>
-                        </li>
-                    </ul>
-                    {button && <Button buttonStyle='btn--outline'>SEARCH</Button>}
+                    <div className='nav-links'>
+                        <Link to='/bulletin' className='nav-links'>
+                            Bulletin
+                        </Link>
+                    </div>
+                    <div className='nav-links'>
+                        <Link to='/search' className='nav-links'>
+                            Search
+                        </Link>
+                    </div>
                 </div>
             </nav>
         </>
