@@ -7,20 +7,36 @@ export const SearchBar = ({ setResults }) => {
   const [input, setInput] = useState("");
 
   const fetchData = (value) => {
-    fetch("https://jsonplaceholder.typicode.com/users")
-      .then((response) => response.json())
-      .then((json) => {
-        const results = json.filter((user) => {
-          return (
-            value &&
-            user &&
-            user.name &&
-            user.name.toLowerCase().includes(value)
-          );
-        });
-        setResults(results);
+  fetch("./ucla_waste_data_complete.json")
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error("Network response was not ok " + response.statusText);
+      }
+      return response.json();
+    })
+    .then((json) => {
+      const results = json.filter((item) => {
+        return (
+          value &&
+          item &&
+          item.location &&
+          item.name &&
+          item.mode &&
+          (
+            item.location.toLowerCase().includes(value.toLowerCase()) ||
+            item.name.toLowerCase().includes(value.toLowerCase()) ||
+            item.mode.toLowerCase().includes(value.toLowerCase())
+          )
+        );
       });
-  };
+      setResults(results);
+    })
+    .catch((error) => {
+      console.error("Error fetching the data:", error);
+    });
+};
+
+
 
   const handleChange = (value) => {
     setInput(value);
