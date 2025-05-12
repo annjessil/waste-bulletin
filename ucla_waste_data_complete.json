@@ -1,865 +1,865 @@
 [
   {
     "location": "Rendezvous",
-    "name": "Takeout Box",
+    "object": "Takeout Box",
     "mode": "Compost"
   },
   {
     "location": "Rendezvous",
-    "name": "Napkins",
+    "object": "Napkins",
     "mode": "Compost"
   },
   {
     "location": "Rendezvous",
-    "name": "Chopstick",
+    "object": "Chopstick",
     "mode": "Compost"
   },
   {
     "location": "Rendezvous",
-    "name": "Utensil Wrappers",
+    "object": "Utensil Wrappers",
     "mode": "Compost"
   },
   {
     "location": "Rendezvous",
-    "name": "Drink Cups",
+    "object": "Drink Cups",
     "mode": "Compost"
   },
   {
     "location": "Rendezvous",
-    "name": "Utensils",
+    "object": "Utensils",
     "mode": "Compost"
   },
   {
     "location": "Rendezvous",
-    "name": "Lids",
+    "object": "Lids",
     "mode": "Compost"
   },
   {
     "location": "The Study",
-    "name": "Takeout Boxes",
+    "object": "Takeout Boxes",
     "mode": "Compost"
   },
   {
     "location": "The Study",
-    "name": "Sandwich Wrappers",
+    "object": "Sandwich Wrappers",
     "mode": "Compost"
   },
   {
     "location": "The Study",
-    "name": "Napkins",
+    "object": "Napkins",
     "mode": "Compost"
   },
   {
     "location": "The Study",
-    "name": "Beverage Cup",
+    "object": "Beverage Cup",
     "mode": "Compost"
   },
   {
     "location": "The Study",
-    "name": "Utensil Wrappers",
+    "object": "Utensil Wrappers",
     "mode": "Compost"
   },
   {
     "location": "The Study",
-    "name": "Aluminum Cans",
+    "object": "Aluminum Cans",
     "mode": "Recycle"
   },
   {
     "location": "The Drey",
-    "name": "Compostable Container",
+    "object": "Compostable Container",
     "mode": "Compost"
   },
   {
     "location": "The Drey",
-    "name": "Lid",
+    "object": "Lid",
     "mode": "Compost"
   },
   {
     "location": "The Drey",
-    "name": "Stirrer",
+    "object": "Stirrer",
     "mode": "Compost"
   },
   {
     "location": "The Drey",
-    "name": "Cup",
+    "object": "Cup",
     "mode": "Compost"
   },
   {
     "location": "The Drey",
-    "name": "Ice Cream Containers",
+    "object": "Ice Cream Containers",
     "mode": "Recycle"
   },
   {
     "location": "The Drey",
-    "name": "Soda Cans",
+    "object": "Soda Cans",
     "mode": "Recycle"
   },
   {
     "location": "The Drey",
-    "name": "Milk Containers",
+    "object": "Milk Containers",
     "mode": "Recycle"
   },
   {
     "location": "The Drey",
-    "name": "Cookie Wrapper",
+    "object": "Cookie Wrapper",
     "mode": "Recycle"
   },
   {
     "location": "The Drey",
-    "name": "Plastic Containers",
+    "object": "Plastic Containers",
     "mode": "Recycle"
   },
   {
     "location": "The Drey",
-    "name": "Plastic Lids",
+    "object": "Plastic Lids",
     "mode": "Recycle"
   },
   {
     "location": "The Drey",
-    "name": "Chip Bags",
+    "object": "Chip Bags",
     "mode": "Landfill"
   },
   {
     "location": "B-Cafe",
-    "name": "Napkins",
+    "object": "Napkins",
     "mode": "Compost"
   },
   {
     "location": "B-Cafe",
-    "name": "Forks",
+    "object": "Forks",
     "mode": "Compost"
   },
   {
     "location": "B-Cafe",
-    "name": "Spoons",
+    "object": "Spoons",
     "mode": "Compost"
   },
   {
     "location": "B-Cafe",
-    "name": "Drink Cups",
+    "object": "Drink Cups",
     "mode": "Compost"
   },
   {
     "location": "B-Cafe",
-    "name": "Bowls",
+    "object": "Bowls",
     "mode": "Compost"
   },
   {
     "location": "B-Cafe",
-    "name": "Lids",
+    "object": "Lids",
     "mode": "Compost"
   },
   {
     "location": "Cafe 1919",
-    "name": "Spoons (Greenprint)  biodegradable OR verde Compost",
+    "object": "Spoons (Greenprint)  biodegradable OR verde Compost",
     "mode": "Landfill"
   },
   {
     "location": "Cafe 1919",
-    "name": "Spoons (Verde)",
+    "object": "Spoons (Verde)",
     "mode": "Compost"
 
   },
   {
     "location": "Cafe 1919",
-    "name": "Forks (Greenprint)",
+    "object": "Forks (Greenprint)",
     "mode": "Landfill"
   },
   {
     "location": "Cafe 1919",
-    "name": "Forks (Verde)",
+    "object": "Forks (Verde)",
     "mode": "Compost"
   },
   {
     "location": "Cafe 1919",
-    "name": "Knives (Greenprint)",
+    "object": "Knives (Greenprint)",
     "mode": "Landfill"
   },
   {
     "location": "Cafe 1919",
-    "name": "Knives (Verde)",
+    "object": "Knives (Verde)",
     "mode": "Compost"
   },
   {
     "location": "Cafe 1919",
-    "name": "Fountain Drink Cups",
+    "object": "Fountain Drink Cups",
     "mode": "Compost"
   },
   {
     "location": "Cafe 1919",
-    "name": "Gelato Bowls",
+    "object": "Gelato Bowls",
     "mode": "Compost"
   },
   {
     "location": "Cafe 1919",
-    "name": "Sandwich Wrapping Paper",
+    "object": "Sandwich Wrapping Paper",
     "mode": "Recycle"
   },
   {
     "location": "Cafe 1919",
-    "name": "Pizza boxes",
+    "object": "Pizza boxes",
     "mode": "Recycle"
   },
   {
     "location": "De Neve",
-    "name": "Napkins",
+    "object": "Napkins",
     "mode": "Compost"
   },
   {
     "location": "De Neve",
-    "name": "Takeout boxes",
+    "object": "Takeout boxes",
     "mode": "Compost"
   },
   {
     "location": "Veggie Grill",
-    "name": "Water Cups",
+    "object": "Water Cups",
     "mode": "Compost"
   },
   {
     "location": "Veggie Grill",
-    "name": "Paper Bags",
+    "object": "Paper Bags",
     "mode": "Compost"
   },
   {
     "location": "Veggie Grill",
-    "name": "Paper Napkins",
+    "object": "Paper Napkins",
     "mode": "Compost"
   },
   {
     "location": "Veggie Grill",
-    "name": "Plastic Cups",
+    "object": "Plastic Cups",
     "mode": "Recycle"
   },
   {
     "location": "Veggie Grill",
-    "name": "Lids",
+    "object": "Lids",
     "mode": "Recycle"
   },
   {
     "location": "Veggie Grill",
-    "name": "Desserts",
+    "object": "Desserts",
     "mode": "Recycle"
   },
   {
     "location": "Veggie Grill",
-    "name": "Takeout Boxes",
+    "object": "Takeout Boxes",
     "mode": "Recycle"
   },
   {
     "location": "Veggie Grill",
-    "name": "Waxed Paper",
+    "object": "Waxed Paper",
     "mode": "Landfill"
   },
   {
     "location": "Panda Express",
-    "name": "Paper Napkins",
+    "object": "Paper Napkins",
     "mode": "Compost"
   },
   {
     "location": "Panda Express",
-    "name": "Compost Container",
+    "object": "Compost Container",
     "mode": "Compost"
   },
   {
     "location": "Panda Express",
-    "name": "Paper Bags",
+    "object": "Paper Bags",
     "mode": "Compost"
   },
   {
     "location": "Panda Express",
-    "name": "Paper Cups",
+    "object": "Paper Cups",
     "mode": "Recycle"
   },
   {
     "location": "Panda Express",
-    "name": "Plastic Soda Cups",
+    "object": "Plastic Soda Cups",
     "mode": "Recycle"
   },
   {
     "location": "Panda Express",
-    "name": "Plastic Utensils",
+    "object": "Plastic Utensils",
     "mode": "Recycle"
   },
   {
     "location": "Panda Express",
-    "name": "Plastic Lids",
+    "object": "Plastic Lids",
     "mode": "Recycle"
   },
   {
     "location": "Greenhouse",
-    "name": "Cardboard Drink Holders",
+    "object": "Cardboard Drink Holders",
     "mode": "Compost"
   },
   {
     "location": "Greenhouse",
-    "name": "Bowls",
+    "object": "Bowls",
     "mode": "Compost"
   },
   {
     "location": "Greenhouse",
-    "name": "Takeout Trays",
+    "object": "Takeout Trays",
     "mode": "Compost"
   },
   {
     "location": "Greenhouse",
-    "name": "Soup Bowl Lids",
+    "object": "Soup Bowl Lids",
     "mode": "Compost"
   },
   {
     "location": "Greenhouse",
-    "name": "Utensils",
+    "object": "Utensils",
     "mode": "Compost"
   },
   {
     "location": "Greenhouse",
-    "name": "Takeout Bags",
+    "object": "Takeout Bags",
     "mode": "Compost"
   },
   {
     "location": "Greenhouse",
-    "name": "Plastic Cups",
+    "object": "Plastic Cups",
     "mode": "Recycle"
   },
   {
     "location": "Greenhouse",
-    "name": "Plastic Lids",
+    "object": "Plastic Lids",
     "mode": "Recycle"
   },
   {
     "location": "Greenhouse",
-    "name": "Plastic Straws",
+    "object": "Plastic Straws",
     "mode": "Recycle"
   },
   {
     "location": "Greenhouse",
-    "name": "Aluminum Cans",
+    "object": "Aluminum Cans",
     "mode": "Recycle"
   },
   {
     "location": "Greenhouse",
-    "name": "Plastic Bottles",
+    "object": "Plastic Bottles",
     "mode": "Recycle"
   },
   {
     "location": "Greenhouse",
-    "name": "Chip Bags",
+    "object": "Chip Bags",
     "mode": "Landfill"
   },
   {
     "location": "Epic at Ackerman",
-    "name": "Cardboard Box",
+    "object": "Cardboard Box",
     "mode": "Compost"
   },
   {
     "location": "Epic at Ackerman",
-    "name": "Paper Bag",
+    "object": "Paper Bag",
     "mode": "Compost"
   },
   {
     "location": "Epic at Ackerman",
-    "name": "Paper Napkins",
+    "object": "Paper Napkins",
     "mode": "Compost"
   },
   {
     "location": "Epic at Ackerman",
-    "name": "Soda Cups",
+    "object": "Soda Cups",
     "mode": "Compost"
   },
   {
     "location": "Epic at Ackerman",
-    "name": "Cardboard Cup Lids",
+    "object": "Cardboard Cup Lids",
     "mode": "Compost"
   },
   {
     "location": "Epic at Ackerman",
-    "name": "Bowls",
+    "object": "Bowls",
     "mode": "Compost"
   },
   {
     "location": "Epic at Ackerman",
-    "name": "Lids",
+    "object": "Lids",
     "mode": "Compost"
   },
   {
     "location": "Epic at Ackerman",
-    "name": "Plastic Utensils",
+    "object": "Plastic Utensils",
     "mode": "Recycle"
   }, 
   {
     "location": "Wetzel's Pretzels",
-    "name": "Paper Bags",
+    "object": "Paper Bags",
     "mode": "Compost"
   },
   {
     "location": "Wetzel's Pretzels",
-    "name": "Plastic Straws",
+    "object": "Plastic Straws",
     "mode": "Recycle"
   },
   {
     "location": "Wetzel's Pretzels",
-    "name": "Paper Cups",
+    "object": "Paper Cups",
     "mode": "Recycle"
   },
   {
     "location": "Wetzel's Pretzels",
-    "name": "Lids",
+    "object": "Lids",
     "mode": "Recycle"
   },
   {
     "location": "Wetzel's Pretzels",
-    "name": "Plastic Sauce Containers",
+    "object": "Plastic Sauce Containers",
     "mode": "Recycle"
   },
   {
     "location": "Sambazon",
-    "name": "Bowl",
+    "object": "Bowl",
     "mode": "Compost"
   },
   {
     "location": "Sambazon",
-    "name": "Utensils",
+    "object": "Utensils",
     "mode": "Compost"
   },
   {
     "location": "Sambazon",
-    "name": "Paper Napkins",
+    "object": "Paper Napkins",
     "mode": "Compost"
   },
   {
     "location": "Taco Bell",
-    "name": "Paper Napkins",
+    "object": "Paper Napkins",
     "mode": "Compost"
   },
   {
     "location": "Taco Bell",
-    "name": "Paper Bags",
+    "object": "Paper Bags",
     "mode": "Compost"
   },
   {
     "location": "Taco Bell",
-    "name": "Plastic Straws",
+    "object": "Plastic Straws",
     "mode": "Recycle"
   },
   {
     "location": "Taco Bell",
-    "name": "Plastic Cups",
+    "object": "Plastic Cups",
     "mode": "Recycle"
   },
   {
     "location": "Taco Bell",
-    "name": "Plastic Lids",
+    "object": "Plastic Lids",
     "mode": "Recycle"
   },
   {
     "location": "Taco Bell",
-    "name": "Cardboard Boxes",
+    "object": "Cardboard Boxes",
     "mode": "Recycle"
   },
   {
     "location": "Taco Bell",
-    "name": "Wax Paper",
+    "object": "Wax Paper",
     "mode": "Landfill"
   },
   {
     "location": "Carl's Junior",
-    "name": "Paper Napkins",
+    "object": "Paper Napkins",
     "mode": "Compost"
   },
   {
     "location": "Carl's Junior",
-    "name": "Paper Bags",
+    "object": "Paper Bags",
     "mode": "Compost"
   },
   {
     "location": "Carl's Junior",
-    "name": "Plastic Cups",
+    "object": "Plastic Cups",
     "mode": "Recycle"
   },
   {
     "location": "Carl's Junior",
-    "name": "Plastic Lids",
+    "object": "Plastic Lids",
     "mode": "Recycle"
   },
   {
     "location": "Carl's Junior",
-    "name": "Plastic Straws",
+    "object": "Plastic Straws",
     "mode": "Recycle"
   },
   {
     "location": "Carl's Junior",
-    "name": "Paper Cups",
+    "object": "Paper Cups",
     "mode": "Recycle"
   },
   {
     "location": "Carl's Junior",
-    "name": "Plastic Water Bottles",
+    "object": "Plastic Water Bottles",
     "mode": "Recycle"
   },
   {
     "location": "Carl's Junior",
-    "name": "Plastic Bottles",
+    "object": "Plastic Bottles",
     "mode": "Recycle"
   },
   {
     "location": "Carl's Junior",
-    "name": "Wax Paper",
+    "object": "Wax Paper",
     "mode": "Landfill"
   },
   {
     "location": "Bruin Buzz",
-    "name": "Drink Cups",
+    "object": "Drink Cups",
     "mode": "Compost"
   },
   {
     "location": "Bruin Buzz",
-    "name": "Cup Lids",
+    "object": "Cup Lids",
     "mode": "Compost"
   },
   {
     "location": "Bruin Buzz",
-    "name": "Food Containers",
+    "object": "Food Containers",
     "mode": "Compost"
   },
   {
     "location": "Bruin Buzz",
-    "name": "Utensils",
+    "object": "Utensils",
     "mode": "Compost"
   },
   {
     "location": "Bruin Buzz",
-    "name": "Paper Napkins",
+    "object": "Paper Napkins",
     "mode": "Compost"
   },
   {
     "location": "Bruin Buzz",
-    "name": "Plastic Drink Cups",
+    "object": "Plastic Drink Cups",
     "mode": "Recycle"
   },
   {
     "location": "Bruin Buzz",
-    "name": "Plastic Lids",
+    "object": "Plastic Lids",
     "mode": "Recycle"
   },
   {
     "location": "Bruin Buzz",
-    "name": "Soda Cans",
+    "object": "Soda Cans",
     "mode": "Recycle"
   },
   {
     "location": "Bruin Buzz",
-    "name": "Bottled Drinks",
+    "object": "Bottled Drinks",
     "mode": "Recycle"
   },
   {
     "location": "Bruin Buzz",
-    "name": "Plastic Straws",
+    "object": "Plastic Straws",
     "mode": "Recycle"
   },
   {
     "location": "Bruin Buzz",
-    "name": "Wax Paper",
+    "object": "Wax Paper",
     "mode": "Landfill"
   },
   {
     "location": "Bruin Buzz",
-    "name": "Chip Bags",
+    "object": "Chip Bags",
     "mode": "Landfill"
   },
   {
     "location": "Bruin Buzz",
-    "name": "Candy Wrappers",
+    "object": "Candy Wrappers",
     "mode": "Landfill"
   },
   {
     "location": "Kikka Sushi Noodle",
-    "name": "Chopsticks",
+    "object": "Chopsticks",
     "mode": "Compost"
   },
   {
     "location": "Kikka Sushi Noodle",
-    "name": "Paper Napkins",
+    "object": "Paper Napkins",
     "mode": "Compost"
   },
   {
     "location": "Kikka Sushi Noodle",
-    "name": "Soda Cups",
+    "object": "Soda Cups",
     "mode": "Recycle"
   },
   {
     "location": "Kikka Sushi Noodle",
-    "name": "Plastic Containers",
+    "object": "Plastic Containers",
     "mode": "Recycle"
   },
   {
     "location": "Kikka Sushi Noodle",
-    "name": "Plastic Straws",
+    "object": "Plastic Straws",
     "mode": "Recycle"
   },
   {
     "location": "Kikka Sushi Noodle",
-    "name": "Bottled Drinks",
+    "object": "Bottled Drinks",
     "mode": "Recycle"
   },
   {
     "location": "LuValle",
-    "name": "Napkins",
+    "object": "Napkins",
     "mode": "Compost"
   },
   {
     "location": "LuValle",
-    "name": "Forks",
+    "object": "Forks",
     "mode": "Compost"
   },
   {
     "location": "LuValle",
-    "name": "Spoons",
+    "object": "Spoons",
     "mode": "Compost"
   },
   {
     "location": "LuValle",
-    "name": "Coffee Cups",
+    "object": "Coffee Cups",
     "mode": "Compost"
   },
   {
     "location": "Fusion (Luvalle)",
-    "name": "Utensils",
+    "object": "Utensils",
     "mode": "Compost"
   },
   {
     "location": "Fusion (Luvalle)",
-    "name": "Bowl",
+    "object": "Bowl",
     "mode": "Compost"
   },
   {
     "location": "Fusion (Luvalle)",
-    "name": "Bowl Lid",
+    "object": "Bowl Lid",
     "mode": "Recycle"
   },
   {
     "location": "Burger Assembly",
-    "name": "Cardboard Packaging",
+    "object": "Cardboard Packaging",
     "mode": "Recycle"
   },
   {
     "location": "Burger Assembly",
-    "name": "Paper Tray",
+    "object": "Paper Tray",
     "mode": "Recycle"
   },
   {
     "location": "Burger Assembly",
-    "name": "Condiments (plastic cup, aluminum style lid)",
+    "object": "Condiments (plastic cup, aluminum style lid)",
     "mode": "Landfill"
   },
   {
     "location": "Jimmy's Coffeehouse",
-    "name": "Plastic Straws",
+    "object": "Plastic Straws",
     "mode": "Landfill"
   },
   {
     "location": "Jimmy's Coffeehouse",
-    "name": "Plastic Cups",
+    "object": "Plastic Cups",
     "mode": "Landfill"
   },
   {
     "location": "Jimmy's Coffeehouse",
-    "name": "Pastries Bags",
+    "object": "Pastries Bags",
     "mode": "Recycle"
   },
   {
     "location": "All Rise Pizza",
-    "name": "Pizza Box",
+    "object": "Pizza Box",
     "mode": "Recycle"
   },
   {
     "location": "All Rise Pizza",
-    "name": "Cardboard Box Packaging",
+    "object": "Cardboard Box Packaging",
     "mode": "Recycle"
   },
   {
     "location": "Northern Lights Cafe",
-    "name": "Cardboard Tray",
+    "object": "Cardboard Tray",
     "mode": "Compost"
   },
   {
     "location": "Northern Lights Cafe",
-    "name": "Paper Cups",
+    "object": "Paper Cups",
     "mode": "Compost"
   },
   {
     "location": "Northern Lights Cafe",
-    "name": "Utensils",
+    "object": "Utensils",
     "mode": "Compost"
   },
   {
     "location": "Northern Lights Cafe",
-    "name": "Bowl",
+    "object": "Bowl",
     "mode": "Compost"
   },
   {
     "location": "Northern Lights Cafe",
-    "name": "Plastic Wrappers",
+    "object": "Plastic Wrappers",
     "mode": "Recycle"
   },
   {
     "location": "Northern Lights Cafe",
-    "name": "Soda Cans",
+    "object": "Soda Cans",
     "mode": "Recycle"
   },
   {
     "location": "Northern Lights Cafe",
-    "name": "Bottled Drinks",
+    "object": "Bottled Drinks",
     "mode": "Recycle"
   },
   {
     "location": "Northern Lights Cafe",
-    "name": "Plastic Cup",
+    "object": "Plastic Cup",
     "mode": "Recycle"
   },
   {
     "location": "Northern Lights Cafe",
-    "name": "Wax Paper",
+    "object": "Wax Paper",
     "mode": "Landfill"
   },
   {
     "location": "Northern Lights Cafe",
-    "name": "Chip Bags",
+    "object": "Chip Bags",
     "mode": "Landfill"
   },
   {
     "location": "Kerckhoff",
-    "name": "Napkins",
+    "object": "Napkins",
     "mode": "Compost"
   },
   {
     "location": "Kerckhoff",
-    "name": "Soup Bowls",
+    "object": "Soup Bowls",
     "mode": "Compost"
   },
   {
     "location": "Kerckhoff",
-    "name": "Soup Bowl Lids",
+    "object": "Soup Bowl Lids",
     "mode": "Compost"
   },
   {
     "location": "Kerckhoff",
-    "name": "Cups",
+    "object": "Cups",
     "mode": "Compost"
   },
   {
     "location": "Kerckhoff",
-    "name": "Paper Straws",
+    "object": "Paper Straws",
     "mode": "Recycle"
   },
   {
     "location": "Kerckhoff",
-    "name": "Pastries Bag",
+    "object": "Pastries Bag",
     "mode": "Recycle"
   },
   {
     "location": "Anderson Cafe",
-    "name": "Bowl",
+    "object": "Bowl",
     "mode": "Compost"
   },
   {
     "location": "Anderson Cafe",
-    "name": "Utensil",
+    "object": "Utensil",
     "mode": "Compost"
   },
   {
     "location": "Anderson Cafe",
-    "name": "Napkins",
+    "object": "Napkins",
     "mode": "Compost"
   },
   {
     "location": "Anderson Cafe",
-    "name": "Lid",
+    "object": "Lid",
     "mode": "Compost"
   },
   {
     "location": "Anderson Cafe",
-    "name": "Plastic Lid",
+    "object": "Plastic Lid",
     "mode": "Recycle"
   },
   {
     "location": "Anderson Cafe",
-    "name": "Plastic Straw",
+    "object": "Plastic Straw",
     "mode": "Recycle"
   },
   {
     "location": "Anderson Cafe",
-    "name": "Plastic Wrapper",
+    "object": "Plastic Wrapper",
     "mode": "Recycle"
   },
   {
     "location": "Anderson Cafe",
-    "name": "Plastic Cup",
+    "object": "Plastic Cup",
     "mode": "Recycle"
   },
   {
     "location": "Anderson Cafe",
-    "name": "Wax Paper",
+    "object": "Wax Paper",
     "mode": "Landfill"
   },
-  {"location": "Yoshinoya", "name": "Napkins", "mode": "Compost"},
-  {"location": "Yoshinoya", "name": "Utensils", "mode": "Compost"},
-  {"location": "Yoshinoya", "name": "Paper Bags", "mode": "Compost"},
-    {"location": "Yoshinoya", "name": "Soda Cups", "mode": "Recycle"},
-    {"location": "Yoshinoya", "name": "Plastic Containers", "mode": "Recycle"},
-    {"location": "Yoshinoya", "name": "Plastic Straws", "mode": "Recycle"},
-    {"location": "Yoshinoya", "name": "Plastic Wrappers", "mode": "Recycle"},
-    {"location": "Yoshinoya", "name": "Plastic Lids", "mode": "Recycle"},
-    {"location": "Yoshinoya", "name": "Bottled Soda", "mode": "Recycle"},
-    {"location": "Yoshinoya", "name": "Bottled Water", "mode": "Recycle"},
-    {"location": "Yoshinoya", "name": "Plastic Cups", "mode": "Recycle"},
-    {"location": "Yoshinoya", "name": "Plastic Sauce Containers", "mode": "Recycle"},
+  {"location": "Yoshinoya", "object": "Napkins", "mode": "Compost"},
+  {"location": "Yoshinoya", "object": "Utensils", "mode": "Compost"},
+  {"location": "Yoshinoya", "object": "Paper Bags", "mode": "Compost"},
+    {"location": "Yoshinoya", "object": "Soda Cups", "mode": "Recycle"},
+    {"location": "Yoshinoya", "object": "Plastic Containers", "mode": "Recycle"},
+    {"location": "Yoshinoya", "object": "Plastic Straws", "mode": "Recycle"},
+    {"location": "Yoshinoya", "object": "Plastic Wrappers", "mode": "Recycle"},
+    {"location": "Yoshinoya", "object": "Plastic Lids", "mode": "Recycle"},
+    {"location": "Yoshinoya", "object": "Bottled Soda", "mode": "Recycle"},
+    {"location": "Yoshinoya", "object": "Bottled Water", "mode": "Recycle"},
+    {"location": "Yoshinoya", "object": "Plastic Cups", "mode": "Recycle"},
+    {"location": "Yoshinoya", "object": "Plastic Sauce Containers", "mode": "Recycle"},
 
-    {"location": "Subway", "name": "Napkins", "mode": "Compost"},
-    {"location": "Subway", "name": "Paper Bag", "mode": "Compost"},
-    {"location": "Subway", "name": "Plastic Soda Bottles", "mode": "Recycle"},
-    {"location": "Subway", "name": "Plastic Bottled Water", "mode": "Recycle"},
-    {"location": "Subway", "name": "Soda Cans", "mode": "Recycle"},
-    {"location": "Subway", "name": "Sandwich Wrapper", "mode": "Recycle"},
-    {"location": "Subway", "name": "Plastic Cups", "mode": "Recycle"},
-    {"location": "Subway", "name": "Plastic Lids", "mode": "Recycle"},
-    {"location": "Subway", "name": "Plastic Straws", "mode": "Recycle"},
+    {"location": "Subway", "object": "Napkins", "mode": "Compost"},
+    {"location": "Subway", "object": "Paper Bag", "mode": "Compost"},
+    {"location": "Subway", "object": "Plastic Soda Bottles", "mode": "Recycle"},
+    {"location": "Subway", "object": "Plastic Bottled Water", "mode": "Recycle"},
+    {"location": "Subway", "object": "Soda Cans", "mode": "Recycle"},
+    {"location": "Subway", "object": "Sandwich Wrapper", "mode": "Recycle"},
+    {"location": "Subway", "object": "Plastic Cups", "mode": "Recycle"},
+    {"location": "Subway", "object": "Plastic Lids", "mode": "Recycle"},
+    {"location": "Subway", "object": "Plastic Straws", "mode": "Recycle"},
 
-    {"location": "Fusion (Bomb Shelter)", "name": "Napkins", "mode": "Compost"},
-    {"location": "Fusion (Bomb Shelter)", "name": "Cardboard Box", "mode": "Compost"},
-    {"location": "Fusion (Bomb Shelter)", "name": "Soda Cups", "mode": "Recycle"},
-    {"location": "Fusion (Bomb Shelter)", "name": "Plastic Lids", "mode": "Recycle"},
-    {"location": "Fusion (Bomb Shelter)", "name": "Plastic Straws", "mode": "Recycle"},
-    {"location": "Fusion (Bomb Shelter)", "name": "Sauce Packet", "mode": "Recycle"},
+    {"location": "Fusion (Bomb Shelter)", "object": "Napkins", "mode": "Compost"},
+    {"location": "Fusion (Bomb Shelter)", "object": "Cardboard Box", "mode": "Compost"},
+    {"location": "Fusion (Bomb Shelter)", "object": "Soda Cups", "mode": "Recycle"},
+    {"location": "Fusion (Bomb Shelter)", "object": "Plastic Lids", "mode": "Recycle"},
+    {"location": "Fusion (Bomb Shelter)", "object": "Plastic Straws", "mode": "Recycle"},
+    {"location": "Fusion (Bomb Shelter)", "object": "Sauce Packet", "mode": "Recycle"},
 
-    {"location": "Blaze Pizza", "name": "Cardboard Boxes", "mode": "Compost"},
-    {"location": "Blaze Pizza", "name": "Napkins", "mode": "Compost"},
-    {"location": "Blaze Pizza", "name": "Utensils", "mode": "Compost"},
-    {"location": "Blaze Pizza", "name": "Soda Cups", "mode": "Recycle"},
-    {"location": "Blaze Pizza", "name": "Plastic Straws", "mode": "Recycle"},
-    {"location": "Blaze Pizza", "name": "Plastic Lids", "mode": "Recycle"},
+    {"location": "Blaze Pizza", "object": "Cardboard Boxes", "mode": "Compost"},
+    {"location": "Blaze Pizza", "object": "Napkins", "mode": "Compost"},
+    {"location": "Blaze Pizza", "object": "Utensils", "mode": "Compost"},
+    {"location": "Blaze Pizza", "object": "Soda Cups", "mode": "Recycle"},
+    {"location": "Blaze Pizza", "object": "Plastic Straws", "mode": "Recycle"},
+    {"location": "Blaze Pizza", "object": "Plastic Lids", "mode": "Recycle"},
 
-    {"location": "Southern Lights Cafe (Peet's)", "name": "Napkins", "mode": "Compost"},
-    {"location": "Southern Lights Cafe (Peet's)", "name": "Plastic cups", "mode": "Recycle"},
-    {"location": "Southern Lights Cafe (Peet's)", "name": "Plastic OR Paper Straw", "mode": "Recycle"},
+    {"location": "Southern Lights Cafe (Peet's)", "object": "Napkins", "mode": "Compost"},
+    {"location": "Southern Lights Cafe (Peet's)", "object": "Plastic cups", "mode": "Recycle"},
+    {"location": "Southern Lights Cafe (Peet's)", "object": "Plastic OR Paper Straw", "mode": "Recycle"},
 
-    {"location": "Perro Taco", "name": "Napkins", "mode": "Compost"},
-    {"location": "Perro Taco", "name": "Forks", "mode": "Recycle"},
-    {"location": "Perro Taco", "name": "Bottle Water", "mode": "Recycle"},
-    {"location": "Perro Taco", "name": "Soda cans", "mode": "Recycle"},
+    {"location": "Perro Taco", "object": "Napkins", "mode": "Compost"},
+    {"location": "Perro Taco", "object": "Forks", "mode": "Recycle"},
+    {"location": "Perro Taco", "object": "Bottle Water", "mode": "Recycle"},
+    {"location": "Perro Taco", "object": "Soda cans", "mode": "Recycle"},
 
-    {"location": "Smile Hotdog", "name": "Napkins", "mode": "Compost"},
-    {"location": "Smile Hotdog", "name": "Forks", "mode": "Recycle"},
-    {"location": "Smile Hotdog", "name": "Spoons", "mode": "Recycle"},
-    {"location": "Smile Hotdog", "name": "Styrofoam cups", "mode": "Landfill"},
+    {"location": "Smile Hotdog", "object": "Napkins", "mode": "Compost"},
+    {"location": "Smile Hotdog", "object": "Forks", "mode": "Recycle"},
+    {"location": "Smile Hotdog", "object": "Spoons", "mode": "Recycle"},
+    {"location": "Smile Hotdog", "object": "Styrofoam cups", "mode": "Landfill"},
 
   
-    {"location": "Thai Food Truck", "name": "Napkins", "mode": "Compost"},
-    {"location": "Thai Food Truck", "name": "Forks", "mode": "Recycle"},
-    {"location": "Thai Food Truck", "name": "Spoons", "mode": "Recycle"},
-    {"location": "Thai Food Truck", "name": "Drink Cups", "mode": "Recycle"},
-    {"location": "Thai Food Truck", "name": "Bowls", "mode": "Recycle"},
-    {"location": "Thai Food Truck", "name": "Plates", "mode": "Recycle"},
-    {"location": "Thai Food Truck", "name": "Lids", "mode": "Recycle"},
-    {"location": "Thai Food Truck", "name": "Bags", "mode": "Recycle"}
+    {"location": "Thai Food Truck", "object": "Napkins", "mode": "Compost"},
+    {"location": "Thai Food Truck", "object": "Forks", "mode": "Recycle"},
+    {"location": "Thai Food Truck", "object": "Spoons", "mode": "Recycle"},
+    {"location": "Thai Food Truck", "object": "Drink Cups", "mode": "Recycle"},
+    {"location": "Thai Food Truck", "object": "Bowls", "mode": "Recycle"},
+    {"location": "Thai Food Truck", "object": "Plates", "mode": "Recycle"},
+    {"location": "Thai Food Truck", "object": "Lids", "mode": "Recycle"},
+    {"location": "Thai Food Truck", "object": "Bags", "mode": "Recycle"}
 ]
 
 
