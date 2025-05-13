@@ -6,7 +6,7 @@ function Home(){
     const navigate = useNavigate();
 
     return(
-        <div>
+        <div className="home-background">
             <h1>Home</h1>
         </div>
     )

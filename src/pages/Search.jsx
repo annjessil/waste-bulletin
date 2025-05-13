@@ -9,10 +9,10 @@ const Search = () => {
     const [results, setResults] = useState([]);    
     return(
         <div>
-        <div className="search-bar-container">
-            <SearchBar setResults={setResults} />
-            {results && results.length > 0 && <SearchResultsList results={results} />}
-        </div>
+            <div className="search-bar-container">
+                <SearchBar setResults={setResults} />
+                {results && results.length > 0 && <SearchResultsList results={results} />}
+            </div>
         </div>
        
     );
