@@ -5,8 +5,8 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #F5F5DC;
-  background-image: url('public/images/rainforest.jpg');
+  background-color: white;
+  /*background-image: url('public/images/rainforest.jpg'); */
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;

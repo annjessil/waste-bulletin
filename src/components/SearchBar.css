@@ -27,7 +27,7 @@
     font-size: 1.25rem;
     width: 100%;
     margin-left: 5px;
-    color: black;
+    color: white;
     flex-shrink: 0; /* prevent shrinking */
 }
 
@@ -68,7 +68,7 @@
 
 .search-dropdown-item:hover {
     background-color: lightgrey;
-    color: black;
+    color: white;
     border-radius: 25px;
 }
 
@@ -86,7 +86,7 @@
     width: 100%;
     background-color: lightgrey;
     min-width: 160px;
-    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 8px 16px rgba(255, 255, 255, 0.2);
     z-index: 997;
     border-radius: 25px;
     margin-top: 8px;
