@@ -7,7 +7,7 @@ import './Bulletin.css';
 function Bulletin(){
     return(
         <div className={"default-welcome"}>
-              <h1 className="static-default">Zero Waste Bulletin</h1>
+              <h1 className="static-default">Zero Waste Bulletin Coming Soon</h1>
         </div>
     )
 }

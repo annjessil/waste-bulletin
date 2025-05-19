@@ -10,7 +10,7 @@ export const SearchBar = ({ setResults }) => {
 
   // Fetch data on component mount only ONCE
   useEffect(() => {
-    fetch("../public/ucla_waste_data_complete.json") //public\ucla_waste_data_complete.json
+    fetch("/waste-bulletin/ucla_waste_data_complete.json")
       .then((response) => {
         if (!response.ok) {
           throw new Error("Network response was not ok " + response.statusText);
