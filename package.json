@@ -2,7 +2,7 @@
   "name": "waste-bulletin",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://annjessil.github.io/waste-bulletin",
+  "homepage": "https://annjessil.github.io/waste-bulletin/",
   "type": "module",
   "scripts": {
     "dev": "vite",
