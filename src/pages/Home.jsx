@@ -6,9 +6,13 @@ function Home(){
     const navigate = useNavigate();
 
     return(
-        <div className="home-background">
-            <h1>Home</h1>
-        </div>
+        <div className={"default-welcome"}>
+              <h1 className="static-default">Welcome to UCLA Zero Waste Bulletin</h1>
+              <h2>Learn More About Sustainable Initiatives at UCLA and Beyond</h2>
+              <button onClick={() => navigate('/search')} className="login-button">
+                Click Here to Learn How To Sort Your Trash!
+              </button>
+          </div>
     )
 }
 

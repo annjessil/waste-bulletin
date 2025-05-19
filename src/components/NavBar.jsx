@@ -19,7 +19,7 @@ const NavBar = () => {
         <>
             <nav className="navbar">
                 <div className="navbar-container">
-                    <Link to="/" className="navbar-logo">
+                    <Link to="https://iusscatucla7.wixsite.com/website" className="navbar-logo">
                         IUSSC
                     </Link>
                     <div className='nav-links'>

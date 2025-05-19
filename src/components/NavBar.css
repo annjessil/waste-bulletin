@@ -36,6 +36,7 @@
   }
   
   .nav-links {
+    
     color: #fff;
     display: flex;
     align-items: center;
@@ -45,7 +46,7 @@
   }
   
   .nav-links:hover {
-    border-bottom: 4px solid #fff;
+    border-bottom: 4px solid #4f4f4f;
     transition: all 0.2s ease-out;
   }
   
