@@ -153,7 +153,7 @@ function BulletinPage() {
       <main className="max-w-7xl mx-auto px-4 py-8">
         <div className="mb-8 flex items-center justify-between">
           <div>
-            <h2 className="text-2xl font-bold text-[#6c584c] mb-2">Community Bulletin Board</h2>
+            <h2 className="text-2xl font-bold text-[#6c584c] mb-2">Zero Waste Bulletin Board</h2>
             <p className="text-[#a98467]">Share tips, events, and sustainability initiatives</p>
           </div>
           <button className="bg-[#adc178] hover:bg-[#9bb066] text-[#6c584c] px-6 py-3 rounded-lg shadow-lg flex items-center gap-2 transition-all hover:scale-105">
@@ -191,8 +191,8 @@ function BulletinPage() {
 
       <footer className="bg-[#6c584c] text-[#f0ead2] py-8 px-4 mt-16">
         <div className="max-w-7xl mx-auto text-center">
-          <p className="mb-2">Together we can make a difference in our community</p>
-          <p className="text-[#dde5b6] text-sm">Waste Bulletin &copy; 2026 - Sustainability for All</p>
+          <p className="mb-2">International Urban Sustainability Student Corps (IUSSC)</p>
+          <p className="text-[#dde5b6] text-sm"> Zero Waste Bulletin &copy; 2026 - Annmarie Jessil</p>
         </div>
       </footer>
     </div>
