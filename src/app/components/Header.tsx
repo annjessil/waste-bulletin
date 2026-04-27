@@ -10,8 +10,8 @@ export function Header() {
               <Recycle className="w-8 h-8 text-[#6c584c]" />
             </div>
             <div>
-              <h1 className="text-3xl font-bold">Waste Bulletin</h1>
-              <p className="text-[#dde5b6] text-sm mt-1">Community Sustainability Hub</p>
+              <h1 className="text-3xl font-bold">Zero Waste Bulletin</h1>
+              <p className="text-[#dde5b6] text-sm mt-1">An IUSSC Initiative</p>
             </div>
           </div>
           <div className="hidden md:flex items-center gap-6">
