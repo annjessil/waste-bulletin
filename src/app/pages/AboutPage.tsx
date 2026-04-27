@@ -14,7 +14,7 @@ export function AboutPage() {
           <p className="text-[#a98467] text-lg max-w-2xl mx-auto">
             The Zero Waste Bulletin is an initiative by the International Urban Sustainability 
             Student Corps (IUSSC) at UCLA, a student-run environmental think tank dedicated to 
-            building a more sustainable campus community through education, action, and connection.
+            building a more sustainable campus community through research, action, and connection.
           </p>
         </div>
 
