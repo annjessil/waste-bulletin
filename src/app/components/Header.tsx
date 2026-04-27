@@ -1,4 +1,5 @@
 import { Recycle, Leaf, Trash2 } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 export function Header() {
   return (
@@ -15,14 +16,22 @@ export function Header() {
             </div>
           </div>
           <div className="hidden md:flex items-center gap-6">
-            <div className="flex items-center gap-2 text-sm">
-              <Leaf className="w-5 h-5 text-[#adc178]" />
-              <span>Eco-Friendly</span>
-            </div>
-            <div className="flex items-center gap-2 text-sm">
-              <Trash2 className="w-5 h-5 text-[#dde5b6]" />
-              <span>Waste Reduction</span>
-            </div>
+            <Link
+              to="/about"
+              className="flex items-center gap-2 text-sm hover:text-[#adc178] transition-colors"
+            >
+              <Recycle className="w-5 h-5 text-[#adc178]" />
+              <span>About Us</span>
+            </Link>
+            <a
+              href="https://iusscatucla7.wixsite.com/website"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 text-sm hover:text-[#dde5b6] transition-colors"
+            >
+              <Leaf className="w-5 h-5 text-[#dde5b6]" />
+              <span>IUSSC</span>
+            </a>
           </div>
         </div>
       </div>

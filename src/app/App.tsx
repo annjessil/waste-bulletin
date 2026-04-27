@@ -5,6 +5,7 @@ import { CategoryFilter } from '@/app/components/CategoryFilter';
 import { BulletinCard } from '@/app/components/BulletinCard';
 import { SearchPage } from '@/app/pages/SearchPage';
 import { Plus, Search } from 'lucide-react';
+import { AboutPage } from './pages/AboutPage';
 
 interface BulletinPost {
   id: number;
@@ -209,6 +210,7 @@ function App() {
         <Route path="/bulletin" element={<BulletinPage />} />
         <Route path="/search" element={<SearchPage />} />
         <Route path="*" element={<Navigate to="/" />} />
+        <Route path="/about" element={<AboutPage />} />
       </Routes>
     </HashRouter>
   );
