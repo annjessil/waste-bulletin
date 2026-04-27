@@ -192,7 +192,7 @@ function BulletinPage() {
       <footer className="bg-[#6c584c] text-[#f0ead2] py-8 px-4 mt-16">
         <div className="max-w-7xl mx-auto text-center">
           <p className="mb-2">International Urban Sustainability Student Corps (IUSSC)</p>
-          <p className="text-[#dde5b6] text-sm"> Zero Waste Bulletin &copy; 2026 - Annmarie Jessil</p>
+          <p className="text-[#dde5b6] text-sm"> Zero Waste Bulletin &copy; 2026 - IUSSC</p>
         </div>
       </footer>
     </div>
