@@ -69,7 +69,7 @@ export function AboutPage() {
                 Zero Waste & Reusables Division Researchers
               </p>
               <p className="text-[#6c584c]">
-                Jasmin Desruisseau, Amando Loi, Ansul Adhikari, Kevin Yang, Zoe Ivatt, Seira Honda
+                Jasmin Desruisseau, Amanda Loi, Ansul Adhikari, Kevin Yang, Zoe Ivatt, Seira Honda
               </p>
             </div>
 
