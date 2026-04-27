@@ -41,7 +41,7 @@ export function AboutPage() {
           <p className="text-[#6c584c] leading-relaxed">
             The Zero Waste Bulletin is an IUSSC initiative focused on eliminating waste on 
             UCLA's campus through a comprehensive search tool that can assist students in the 
-            proper disposal of their waste. The search feature allows easy identification on 
+            proper disposal of single use items. The search feature allows easy identification on 
             how to sort dishware in addition to an events bulletin board that acts as a central 
             hub for all things environment at UCLA. In collaboration with other sustainability 
             clubs at UCLA, we hope this bulletin serves as a resource to find sustainable events, 
